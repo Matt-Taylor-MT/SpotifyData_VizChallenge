@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+#don't upload data
+/RawData
+.csv
+.xlxs
+
+#creds
+app_creds.py
+.cache*
